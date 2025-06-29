@@ -1,0 +1,9 @@
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/Practics.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/install.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/Practics_autogen_timestamp_deps.dir
+/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug/CMakeFiles/Practics_autogen.dir
