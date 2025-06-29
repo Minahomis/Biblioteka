@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e9725aac29b85f7d3101.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practics",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practics-Debug-19563ed20a0d4690c2db.json",
+					"name" : "Practics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practics_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practics_autogen-Debug-11dfb72ed10d4bdf6e1b.json",
+					"name" : "Practics_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practics_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practics_autogen_timestamp_deps-Debug-b86183fa26d5dcf5cfdb.json",
+					"name" : "Practics_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/basiliac/Desktop/College/DB/Practics/build/Desktop-Debug",
+		"source" : "/home/basiliac/Desktop/College/DB/Practics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
